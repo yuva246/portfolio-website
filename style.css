@@ -1,0 +1,44 @@
+.purple-color{
+ color: #8845f4;
+}
+ body{
+ color: #777777;
+ font-family: sans-serif;
+ line-height: 26px;
+}
+ .web-btn{
+ background: #8845f4;
+ padding: 15px 42px;
+ text-decoration: none;
+ color: #fff;
+ border-radius: 20px;
+ 
+}
+ .half-width{
+ width: 50%;
+ float: left;
+ 
+}
+ .side-img{
+ width: 50%;
+ padding-left: 25%;
+ 
+}
+ h1 { 
+ font-size: 1.9em;
+}
+ .container{
+ padding-left: 5%;
+ display: inline-block;
+}
+ .experiences{
+ padding: 30px;
+ margin: 30px;
+ background-color: rgb(238, 251, 255);
+ border-radius: 20px;
+}
+ .experiences-item{
+ padding: 10px;
+ border-left: 1px solid rgba(137, 130, 246, .2);
+ 
+}
